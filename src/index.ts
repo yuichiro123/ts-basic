@@ -18,12 +18,28 @@
 // logMessage4('4')
 // alwaysThrowError('error')
 
-import { isUserSignedIn, isUserSignedIn2, sumProductsPrice } from './function/parameters'
-isUserSignedIn('ABC', 'yamamoto')
-isUserSignedIn('BCD')
+// import { isUserSignedIn, isUserSignedIn2, sumProductsPrice } from './function/parameters'
+// isUserSignedIn('ABC', 'yamamoto')
+// isUserSignedIn('BCD')
 
-isUserSignedIn2('ABC', 'yamamoto')
-isUserSignedIn2('ABC')
+// isUserSignedIn2('ABC', 'yamamoto')
+// isUserSignedIn2('ABC')
 
-const sum = sumProductsPrice(100, 200, 3000, 4000, 500)
-console.log('Function parameters sample 5:', sum)
+// const sum = sumProductsPrice(100, 200, 3000, 4000, 500)
+// console.log('Function parameters sample 5:', sum)
+
+// import objectSample from './object/object';
+// objectSample()
+
+// import typeAliasSample from './object/alias'
+// typeAliasSample()
+
+// import arraySample from './array/array'
+// import tupleSample from './array/tuple'
+// arraySample()
+// tupleSample()
+
+// import genericsBasicSample from './generics/basic'
+// genericsBasicSample()
+// import genericsAdvancedSample from './generics/advanced'
+// genericsAdvancedSample()
